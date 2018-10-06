@@ -35,3 +35,7 @@ You can also change the ping destination to check connection status from your Ma
 ## Privacy Policy
 
 SimplePing app doesn't collect any data from you. No amount of data is collected in any manner.
+
+## Support
+
+Should you have any question / enquiries about this app, you can reach me at axel [at] fluffy.es .
