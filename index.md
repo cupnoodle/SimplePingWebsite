@@ -2,7 +2,7 @@
 
 
 
-Ever experience lag or delay in the middle of Sykpe , Google Hangouts? Wish you have checked the internet connection before starting?
+Ever experience lag or delay in the middle of Skype , Google Hangouts? Wish you have checked the internet connection before starting?
 
 
 
